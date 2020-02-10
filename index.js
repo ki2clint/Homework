@@ -9,7 +9,8 @@ const foods = {
     }
   }
 };
-
+foods["vegetables"] = "carrot";
+foods["greek"] = "kabob";
 const aKiExample = "aKi";
 const myObj = {
   aKi: "example"
